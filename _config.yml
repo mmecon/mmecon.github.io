@@ -107,7 +107,7 @@ author:
   name             : "Mirlind Mustafa"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a Ph.D. Candidate."
-  location         : "Oldenburg"
+  location         : "Oldenburg, <br> Germany"
   email            : 
   links:
     - label: "Email"
