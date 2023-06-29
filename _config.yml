@@ -110,13 +110,14 @@ author:
   location         : "Oldenburg, DE"
   email            : "mirlind@mirlindecon.com"
   linkedin         : "mirlind-mustafa-932896156"
+  twitter          : "MirlindMustafa"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "www.twitter.com"
+      url: www.twitter.com
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
