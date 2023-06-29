@@ -11,6 +11,10 @@
         {% endif %}
       {% endfor %}
     {% endif %}
+    
+    {% unless site.atom_feed.hide %}
+      <li><a href="{{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+    {% endunless %}
 
   </ul>
 </div>
