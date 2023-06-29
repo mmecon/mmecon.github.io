@@ -6,12 +6,7 @@ Welcome to my webpage! Here's some information about me:
 
 I am Mirlind Mustafa, a Ph.D. Candidate in Economics. I am interested in Applied Microeconomics, Applied Econometrics, and Environmental Economics.
 
-```
-{
-  "firstName": "Mirlind",
-  "lastName": "Mustafa",
-}
-``` 
+
 
 ## Contact
 
