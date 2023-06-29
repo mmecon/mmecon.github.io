@@ -108,11 +108,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a Ph.D. Candidate."
   location         : "Oldenburg, <br> Germany"
-  email            : 
-  links:
+  email            : "mrilind@mirlindecon.com"
+  linkedin         : "mirlind-mustafa-932896156" 
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:mirlind@mirlindecon.com"
+      # url: "mailto:mirlind@mirlindecon.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
