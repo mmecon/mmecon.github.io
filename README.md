@@ -4,7 +4,7 @@ Welcome to my webpage! Here's some information about me:
 
 ## About Me
 
-I am Mirlind Mustafa, a Ph.D. Candidate in Economics. I am interested in Applied Microeconomics, Applied Econometrics, and Environmental and Energy Economics.
+I am Mirlind Mustafa, a Ph.D. Candidate in Economics. I am interested in Empirical Industrial Organization, Applied Microeconomics, Applied Econometrics, and Environmental and Energy Economics.
 
 
 
